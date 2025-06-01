@@ -567,7 +567,7 @@ const getTotalParticipants = () => {
               <div className="logo-placeholder">
                 <img src={logoWhite} alt="uTest Logo" />
               </div>
-              <p>Not formally affiliated with Meta or NYU. Any representation is for infromational purposes only.</p>
+              <p>Not formally affiliated with Meta or NYU. Any representation is for informational purposes only.</p>
             </div>
             <div className="footer-links">
               <div className="link-group">
