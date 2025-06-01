@@ -28,7 +28,7 @@ function App() {
     const fetchScheduleData = async () => {
       try {
         setLoading(true);
-        const response = await fetch('https://utestny150.com/schedule.json');
+        const response = await fetch('https://data.utestny150.com/schedule.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
